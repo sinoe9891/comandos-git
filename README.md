@@ -1,6 +1,6 @@
-# Comandos Git!
+# Comandos Git👨🏻‍💻!
 
-Hola, mi nombre es Danny Sinoé conocido como {sinoecodes}, hoy les dejo algunos comandos git que normalmente uso. Espero les sea de provecho. 
+Hola👋🏼, mi nombre es Danny Sinoé conocido como **Sinoe9891**, hoy les dejo algunos comandos git que normalmente uso. Espero les sea de provecho. 
 *Si algunas descripciones están mal escritas no duden en hacer un request.
 
 
